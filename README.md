@@ -25,7 +25,7 @@ In the following screenshots, an overview of the available commands and an examp
 - *DHT11* Sensor (humidity and temperature sensor);
 - *PIR Motion Sensor*;
 - *Green* and *Red* *LEDs*;
-- *1 k $\Omega$ *Resistor*; 
+- 1 k $\Omega$ *Resistor*; 
 - *Wires* and *Jumpers*;
 - (Optional) Plastic Box for organizating and holding all components.
 
@@ -39,7 +39,7 @@ Important repository files are:
 - *images*: images for documentation.
 
 ## Instructions
-If you want to use this repository as is, copy all .py and .json file in your RPi Pico W mass storage (prepare your board using [this procedure](https://projects.raspberrypi.org/en/projects/get-started-pico-w/1)) and connect according to the circuit scheme reported in the photo above. You may exchange PINs without problems (be careful to [RPi Pico W Pinout Diagram](https://datasheets.raspberrypi.com/picow/PicoW-A4-Pinout.pdf). 
+If you want to use this repository as is, copy all .py and .json file in your RPi Pico W mass storage (prepare your board using [this procedure](https://projects.raspberrypi.org/en/projects/get-started-pico-w/1)) and connect according to the circuit scheme reported in the photo above. You may exchange PINs without problems (be careful to [RPi Pico W Pinout Diagram](https://datasheets.raspberrypi.com/picow/PicoW-A4-Pinout.pdf)). 
 
 ## Contacts
 
